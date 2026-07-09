@@ -1,0 +1,6 @@
+[{"continent":"Europe", "total_deaths":1016750.0},
+ {"continent":"North America", "total_deaths":847942.0},
+ {"continent":"South America", "total_deaths":672415.0},
+ {"continent":"Asia", "total_deaths":520286.0},
+ {"continent":"Africa", "total_deaths":121784.0},
+ {"continent":"Oceania", "total_deaths":1046.0}]
